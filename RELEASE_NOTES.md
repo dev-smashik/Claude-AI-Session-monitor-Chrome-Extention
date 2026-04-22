@@ -1,4 +1,5 @@
-# 🚀 Release Notes - ClaudePulse
+# <img src="icons/icon48.png" width="32" vertical-align="middle" /> Release Notes - ClaudePulse
+
 
 All notable changes to **ClaudePulse** will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/).
 
