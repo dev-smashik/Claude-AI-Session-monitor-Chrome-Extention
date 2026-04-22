@@ -6,7 +6,6 @@
   <p><strong>Real-time session & weekly usage tracking for Claude AI with zero telemetry.</strong></p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![Manifest: V3](https://img.shields.io/badge/Manifest-V3-success.svg)](#)
   [![Platform: Chrome](https://img.shields.io/badge/Platform-Chrome-yellow.svg)](#)
   [![Privacy: 100% Local](https://img.shields.io/badge/Privacy-100%25_Local-brightgreen.svg)](#)
 
